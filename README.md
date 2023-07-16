@@ -8,18 +8,19 @@
     
 # Installation
 
-    Follow the following URL to the website:
+    Follow the following URL to the website: https://caf62219.github.io/calendar-website/
     
 # Usage
-<img src="" alt="screenshot of calendar website" width="600px" />
+<img src="./assets/images/Screenshot.png" alt="screenshot of calendar website" width="600px" />
    
     - If you type in one of the boxes the content is saved
 
 # Credits
     Donnie Rawlings: https://github.com/drawlin22/
+    Godwin Otabor
     Received assistance from Tutor Neil Dhand.
     Received assistance from askBCS learning assistant Jose on changing the colors
-
-
+    Received assistance from askBCS learning assistant John on bug fixing my save
+    Phind.com
 # License
     N/A
